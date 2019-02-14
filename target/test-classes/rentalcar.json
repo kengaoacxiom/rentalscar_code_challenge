@@ -1,0 +1,89 @@
+{
+  "Car" :[
+    {
+      "make": "Audi",
+      "model": "A7",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 30,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the right side of the car"
+      },
+      "perdayrent": {
+        "Price": 100,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 40,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "Model Y",
+      "vin": "09AGHY613352JITEG98K",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "Scratches on the back side of the car"
+      },
+      "perdayrent": {
+        "Price": 140,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    }
+    ]
+
+}
