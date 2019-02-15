@@ -17,7 +17,7 @@
         "depreciation": 2256.43,
         "rentalcount": {
           "lastweek": 4,
-          "yeartodate": 221
+          "yeartodate": 55
         }
       }
     },
@@ -38,7 +38,7 @@
         "depreciation": 2256.43,
         "rentalcount": {
           "lastweek": 4,
-          "yeartodate": 221
+          "yeartodate": 70
         }
       }
     },
@@ -59,7 +59,7 @@
         "depreciation": 2256.43,
         "rentalcount": {
           "lastweek": 4,
-          "yeartodate": 221
+          "yeartodate": 90
         }
       }
     },
@@ -80,7 +80,7 @@
         "depreciation": 2256.43,
         "rentalcount": {
           "lastweek": 4,
-          "yeartodate": 221
+          "yeartodate": 100
         }
       }
     }
